@@ -4,6 +4,6 @@
 int main ()
 {
 	char letter = "A";
-	printf("Hello I'm user %s\n", letter);
+	printf("Hello I'm user %s and I changed something\n", letter);
 	return 0;
 }
