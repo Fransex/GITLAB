@@ -3,7 +3,8 @@
 
 int main ()
 {
-	char letter = "B";
-	printf("Hello I'm user %s and I changed something\n", letter);
-	return 2;
+	char letterA = 'A';
+	char letterB = 'B';
+	printf("Hello We are users %c and %c and we changed something\n", letterA, letterB);
+	return 0;
 }
