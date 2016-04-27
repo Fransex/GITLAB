@@ -3,7 +3,7 @@
 
 int main ()
 {
-	char letter = "A";
+	char letter = "a";
 	printf("Hello I'm user %s and I changed something\n", letter);
-	return 0;
+	return 1;
 }
